@@ -7,7 +7,7 @@ In this automated testing for **https://subscribe.jawwy.tv/** for 3 countries th
 
 ## Installtion
 
-User should use maven dependencies for **Java** and **TestNG** in ** POM.XML file **  
+User should use maven dependencies for **Java** and **TestNG** in **POM.XML file**  
 
 ## Usage
 For transfomring manual testing to automated one 
