@@ -5,16 +5,15 @@ In this automated testing for **https://subscribe.jawwy.tv/** for 3 countries th
 #### C- Algeria 
 
 
-#Installtion
+## Installtion
 
-User should use maven dependencies for **Java** and **TestNG** 
+User should use maven dependencies for **Java** and **TestNG** in ** POM.XML file **  
 
-#Usage
+## Usage
 For transfomring manual testing to automated one 
-# Commit Info 
+## Commit Info 
 This version contains  the following :-
-
-###  Three packages for each country 
+Three packages for each country 
 
 
 
